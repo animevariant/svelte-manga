@@ -41,7 +41,7 @@
 		"lodash": "^4.17.21",
 		"node-schedule": "^2.1.1",
 		"pocketbase": "^0.26.0",
-		"postcss": "^8.4.27",
+		"postcss": "^8.5.3",
 		"prettier": "^3.5.3",
 		"prettier-plugin-svelte": "^3.2.6",
 		"svelte": "^4.0.0",

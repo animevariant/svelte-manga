@@ -55,6 +55,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-static": "^1.0.6"
+		"@sveltejs/adapter-static": "^2.0.3"
 	}
 }

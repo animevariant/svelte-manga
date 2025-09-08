@@ -432,10 +432,10 @@
   resolved "https://registry.npmjs.org/@types/stats.js/-/stats.js-0.17.3.tgz"
   integrity sha512-pXNfAD3KHOdif9EQXZ9deK82HVNaXP5ZIF5RP2QG6OQFNTaY2YIetfrE9t528vEreGQvEPRDDc8muaoYeK0SxQ==
 
-"@types/three@^0.179.0":
-  version "0.179.0"
-  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.179.0.tgz#a856ea9300eda786da606c04360ab787853ebc94"
-  integrity sha512-VgbFG2Pgsm84BqdegZzr7w2aKbQxmgzIu4Dy7/75ygiD/0P68LKmp5ie08KMPNqGTQwIge8s6D1guZf1RnZE0A==
+"@types/three@^0.180.0":
+  version "0.180.0"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.180.0.tgz#c9525a744e55c43f720185710c5dc33e6ff67b53"
+  integrity sha512-ykFtgCqNnY0IPvDro7h+9ZeLY+qjgUWv+qEvUt84grhenO60Hqd4hScHE7VTB9nOQ/3QM8lkbNE+4vKjEpUxKg==
   dependencies:
     "@dimforge/rapier3d-compat" "~0.12.0"
     "@tweenjs/tween.js" "~23.1.3"
